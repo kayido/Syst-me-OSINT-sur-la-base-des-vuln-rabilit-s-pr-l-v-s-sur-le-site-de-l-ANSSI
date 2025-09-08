@@ -1,0 +1,6 @@
+id,email,logiciels,cves
+1,email1@gmail.com,"[""Mattermost"","" Microsoft"","" OpenSSL""]",[CVE-2025-4573]
+2,email2@gmail.net,"[""Apache"","" OpenSSL"","" Elastic""]",[]
+3,email3@gmail.com,"[""Adobe"",""Linux""]","[CVE-2025-43586,CVE-2025-21795]"
+4,email4@gmail.com,"[""OpenSSL"",""Mattermost""]","[CVE-2025-4573,CVE-2023-5363]"
+5,email5@gmail.com,"[""Fortinet"",""Mozilla"",""SAP_SE""]","[CVE-2025-30010,CVE-2025-25250,CVE-2025-49709,CVE-2025-42989]"
